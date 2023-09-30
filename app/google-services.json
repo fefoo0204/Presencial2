@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "295305666047",
+    "firebase_url": "https://tutorial-firebase-2796f-default-rtdb.firebaseio.com",
+    "project_id": "tutorial-firebase-2796f",
+    "storage_bucket": "tutorial-firebase-2796f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295305666047:android:0d78fe57be7394b4821bca",
+        "android_client_info": {
+          "package_name": "com.utec.tutorialfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrbTISCua98YaFGcgY9dfEX5t9qZYwNc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
